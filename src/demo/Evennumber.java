@@ -12,7 +12,7 @@ public class Evennumber
 	  
 	  if(a%2==0)
 	  {
-		  System.out.println("The number is even");
+		  System.out.println("even");
 	  }
 	  else
 	  {

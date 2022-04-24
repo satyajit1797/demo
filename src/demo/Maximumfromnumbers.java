@@ -4,8 +4,8 @@ public class Maximumfromnumbers
 {
   public static void main(String []args)
   {
-	  double a=20.50;
-	  double b=37.20;
+	  double a=20;
+	  double b=30;
 	  
 	  
 	  if (a>b)

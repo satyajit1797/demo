@@ -10,9 +10,9 @@ public class Simpleinterest
 	   System.out.println("Enter the value of Interest rate="+b);
 	   int c=3;
 	   System.out.println("Enter the value of total period="+c);
-	   double d;
-	   d=a*b*c/100;
-	   System.out.println("Simple Interst is="+d);
+	   double f;
+	   f=a*b*c/100;
+	   System.out.println("Simple Interst is="+f);
 	   
    }
       public static void main(String []args)

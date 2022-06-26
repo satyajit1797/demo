@@ -10,6 +10,7 @@ public class A
   
   public void m1(int a)
   {
-	  
+	
+	  system.out.println("Gadekar");
   }
 }
